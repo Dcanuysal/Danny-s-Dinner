@@ -1,2 +1,2 @@
-# Danny-s-Dinner
+# Danny's-Dinner
 Analysis of data
